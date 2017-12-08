@@ -1,6 +1,6 @@
 # Base Project
-[![Build Status](https://travis-ci.org/silvercloudwind-SE/BaseProject.svg?branch=master)](https://travis-ci.org/silvercloudwind-SE/BaseProject)
-[![codecov](https://codecov.io/gh/silvercloudwind-SE/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/silvercloudwind-SE/BaseProject)
+[![Build Status](https://travis-ci.org/silvercloudwind/BaseProject.svg?branch=master)](https://travis-ci.org/silvercloudwind/BaseProject)
+[![codecov](https://codecov.io/gh/silvercloudwind/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/silvercloudwind/BaseProject)
 
 ## Structure
 ```
